@@ -23,3 +23,5 @@
 hs_err_pid*
 /target/
 chromedriver/chromedriver
+geckodriver/geckodriver
+msedgedriver/msedgedriver
