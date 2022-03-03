@@ -1,165 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[El valor de nuestro indice es: 0]]>
+      <![CDATA[Ingersa el primer numero a comparar]]>
     </line>
     <line>
-      <![CDATA[El valor de nuestro indice es: 1]]>
+      <![CDATA[Ingersa el segundo numero a comparar]]>
     </line>
     <line>
-      <![CDATA[El valor de nuestro indice es: 2]]>
+      <![CDATA[Ambos numeros son iguales [10.0 = 10.0]]>
     </line>
     <line>
-      <![CDATA[El valor de nuestro indice es: 3]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 4]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 5]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 6]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 7]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 8]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 9]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es: 10]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 0]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 1]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 2]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 3]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 4]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 5]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 6]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 7]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 8]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 9]]>
-    </line>
-    <line>
-      <![CDATA[El valor de nuestro indice es WHILE: 10]]>
-    </line>
-    <line>
-      <![CDATA[Ingersa un numero de mes]]>
-    </line>
-    <line>
-      <![CDATA[Octubre]]>
+      <![CDATA[Programa Terminado]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-02-26T10:44:40 MST" name="Default suite" finished-at="2022-02-26T10:44:46 MST" duration-ms="6303">
+  <suite started-at="2022-03-02T18:41:19 MST" name="Default suite" finished-at="2022-03-02T18:41:25 MST" duration-ms="6544">
     <groups>
     </groups>
-    <test started-at="2022-02-26T10:44:40 MST" name="Default test" finished-at="2022-02-26T10:44:46 MST" duration-ms="6303">
-      <class name="JavaBasics.Ciclos">
-        <test-method signature="ciclo()[pri:0, instance:JavaBasics.Ciclos@4df50bcc]" started-at="2022-02-26T10:44:40 MST" name="ciclo" finished-at="2022-02-26T10:44:40 MST" duration-ms="6" status="PASS">
+    <test started-at="2022-03-02T18:41:19 MST" name="Default test" finished-at="2022-03-02T18:41:25 MST" duration-ms="6544">
+      <class name="JavaBasics.Tarea1">
+        <test-method signature="numberCompture()[pri:0, instance:JavaBasics.Tarea1@6b26e945]" started-at="2022-03-02T18:41:19 MST" name="numberCompture" finished-at="2022-03-02T18:41:25 MST" duration-ms="6518" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[El valor de nuestro indice es: 0]]>
+              <![CDATA[Ingersa el primer numero a comparar]]>
             </line>
             <line>
-              <![CDATA[El valor de nuestro indice es: 1]]>
+              <![CDATA[Ingersa el segundo numero a comparar]]>
             </line>
             <line>
-              <![CDATA[El valor de nuestro indice es: 2]]>
+              <![CDATA[Ambos numeros son iguales [10.0 = 10.0]]>
             </line>
             <line>
-              <![CDATA[El valor de nuestro indice es: 3]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 4]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 5]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 6]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 7]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 8]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 9]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es: 10]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 0]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 1]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 2]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 3]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 4]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 5]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 6]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 7]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 8]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 9]]>
-            </line>
-            <line>
-              <![CDATA[El valor de nuestro indice es WHILE: 10]]>
+              <![CDATA[Programa Terminado]]>
             </line>
           </reporter-output>
-        </test-method> <!-- ciclo -->
-        <test-method signature="condicionalSwitch()[pri:0, instance:JavaBasics.Ciclos@4df50bcc]" started-at="2022-02-26T10:44:40 MST" name="condicionalSwitch" finished-at="2022-02-26T10:44:46 MST" duration-ms="6273" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[Ingersa un numero de mes]]>
-            </line>
-            <line>
-              <![CDATA[Octubre]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- condicionalSwitch -->
-      </class> <!-- JavaBasics.Ciclos -->
+        </test-method> <!-- numberCompture -->
+      </class> <!-- JavaBasics.Tarea1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
