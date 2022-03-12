@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[Ingersa el primer numero a comparar]]>
-    </line>
-    <line>
-      <![CDATA[Ingersa el segundo numero a comparar]]>
-    </line>
-    <line>
-      <![CDATA[Ambos numeros son iguales [10.0 = 10.0]]>
-    </line>
-    <line>
-      <![CDATA[Programa Terminado]]>
-    </line>
   </reporter-output>
-  <suite started-at="2022-03-02T18:41:19 MST" name="Default suite" finished-at="2022-03-02T18:41:25 MST" duration-ms="6544">
+  <suite started-at="2022-03-12T08:01:52 MST" name="Default suite" finished-at="2022-03-12T08:01:52 MST" duration-ms="28">
     <groups>
     </groups>
-    <test started-at="2022-03-02T18:41:19 MST" name="Default test" finished-at="2022-03-02T18:41:25 MST" duration-ms="6544">
-      <class name="JavaBasics.Tarea1">
-        <test-method signature="numberCompture()[pri:0, instance:JavaBasics.Tarea1@6b26e945]" started-at="2022-03-02T18:41:19 MST" name="numberCompture" finished-at="2022-03-02T18:41:25 MST" duration-ms="6518" status="PASS">
+    <test started-at="2022-03-12T08:01:52 MST" name="Default test" finished-at="2022-03-12T08:01:52 MST" duration-ms="28">
+      <class name="JavaBasics.TestVehiculo">
+        <test-method signature="datosVehiculoEnArreglo()[pri:0, instance:JavaBasics.TestVehiculo@3c9d0b9d]" started-at="2022-03-12T08:01:52 MST" name="datosVehiculoEnArreglo" finished-at="2022-03-12T08:01:52 MST" duration-ms="6" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Ingersa el primer numero a comparar]]>
-            </line>
-            <line>
-              <![CDATA[Ingersa el segundo numero a comparar]]>
-            </line>
-            <line>
-              <![CDATA[Ambos numeros son iguales [10.0 = 10.0]]>
-            </line>
-            <line>
-              <![CDATA[Programa Terminado]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- numberCompture -->
-      </class> <!-- JavaBasics.Tarea1 -->
+        </test-method> <!-- datosVehiculoEnArreglo -->
+      </class> <!-- JavaBasics.TestVehiculo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
