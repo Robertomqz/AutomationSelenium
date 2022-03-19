@@ -25,3 +25,4 @@ hs_err_pid*
 chromedriver/chromedriver
 geckodriver/geckodriver
 msedgedriver/msedgedriver
+execution_results/testng-results.xml
